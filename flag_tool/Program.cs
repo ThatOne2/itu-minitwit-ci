@@ -35,6 +35,7 @@ namespace flag_tool
             Console.WriteLine(res);
         }
 
+        //A fun little comment 
         static void printHelp()
         {
             Console.WriteLine("Welcome to Minitwit-FlagTool");
